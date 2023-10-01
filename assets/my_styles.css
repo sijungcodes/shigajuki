@@ -1,0 +1,14 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: auto;
+  min-height: 30vh;
+}
+
+main {
+    min-height: 80vh;
+  }
